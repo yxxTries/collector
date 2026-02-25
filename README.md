@@ -1,6 +1,6 @@
 # collector
 
-CCTV-style person tracking with **YOLOv8n + ByteTrack** and a lightweight appearance **Re-ID** module to keep IDs stable across short occlusions / dropouts.
+Person tracking with **YOLOv8n + ByteTrack** and a lightweight appearance **Re-ID** module to keep IDs stable across short occlusions / dropouts.
 
 ## What it does
 
